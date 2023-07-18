@@ -8,6 +8,9 @@
 
 </div>
 
+> **Warning**
+> This project is WIP, more IDs will be added soon.
+
 ## About
 
 This library implements generation and verification of multiple IDs.
